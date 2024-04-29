@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+ 
+ <html> 
+ 
+<head> 
+<title>Dance Schools</title>
+</head> 
+ 
+<body>  
+ 
+<h1> Dance Schools </h1> 
+ 
+<p> There's loads of diffrent dance schools all over the world, but one of the most succesful schools is The Juilliard School in New York City. It is also one of the hardest dance schools to get into.
+ The Juilliard only excepts 12 boys and 12 girls. 
+First you must pass the ballet audition without being cut and get asked to the modern portion. If not cut after that you do a short solo. </p>
+ <img src="https://ischoolconnect.com/blog/wp-content/uploads/2022/06/The-Juilliard-School-.jpg" >   
+</body> 
+ 
+</html>
